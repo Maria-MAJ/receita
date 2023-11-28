@@ -4,7 +4,8 @@
 }
 
 body{
-    background-color: black;
+    background-color: var(--cor de fundo);
+    color: var(--branco principal);
 }
 .principal{
     text-align: center;
